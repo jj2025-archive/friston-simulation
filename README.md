@@ -19,7 +19,7 @@ Exported from CodePen by Josiah Rhys Jacobson (with AI assistance).
 - Visual indicators for top‑down and bottom‑up propagations and simple "glitch" effects when simulated stress thresholds are exceeded.
 - Single-file client implementation (index.html + script.js + style.css) — easy to fork and modify.
 
-## Relevant files
+## Repository contents
 ```
 index.html         — Minimal HTML UI and canvas hook-ups
 script.js          — Simulation logic, drawing, controls, main loop
